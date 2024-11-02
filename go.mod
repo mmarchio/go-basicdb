@@ -1,4 +1,4 @@
-module basicdb
+module github.com/mmarchio/go-basicdb
 
 go 1.21.3
 
