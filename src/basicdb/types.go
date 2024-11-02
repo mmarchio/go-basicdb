@@ -1,4 +1,4 @@
-package db
+package basicdb
 
 type DBInstance interface{
 	IsDBInstance()
